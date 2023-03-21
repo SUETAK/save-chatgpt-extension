@@ -13,7 +13,7 @@ const Content = (): ReactElement => {
         backgroundColor: 'rgb(0 0 0 / 30%)',
       }}
     >
-      <div style={{ display: 'flex', justifyContent: 'center' }}>Content Example</div>
+      <div style={{ display: 'flex', justifyContent: 'center' }}>タイトルロゴがドーン</div>
       <Counter />
     </div>
   );
